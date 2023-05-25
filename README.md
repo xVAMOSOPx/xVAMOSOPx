@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <hr>
-### :hammer_and_wrench: Languages and Tools :
+ :hammer_and_wrench: Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,git" />
