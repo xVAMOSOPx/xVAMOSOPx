@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-### :fire: My Stats : 
+ 🔥: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xVAMOSOPx&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
