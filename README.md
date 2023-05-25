@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <hr>
- :hammer_and_wrench: Languages and Tools :
+ :hammer_and_wrench: 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,git" />
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-🔥: My Stats:
+🔥: 𝐌𝐲 𝐒𝐭𝐚𝐭𝐬:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xVAMOSOPx&theme=dark&background=000000)](https://git.io/streak-stats)
 
